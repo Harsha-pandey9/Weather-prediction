@@ -6,7 +6,7 @@
 
 #### 🌐 Web link  
 🔗 https://github.com/Harsha-pandey9
-🔗 https://wjweather.netlify.app/
+🔗 https://hpweather.netlify.app/
 
 ---
 
